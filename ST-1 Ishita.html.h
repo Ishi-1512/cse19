@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>John Doe - Professional Resume (HTML Only)</title>
+    <title>John Doe - Professional Resume </title>
 </head>
 <body>
 
